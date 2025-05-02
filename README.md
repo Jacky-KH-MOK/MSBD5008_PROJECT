@@ -1,7 +1,7 @@
 # MSBD5008: Introduction to Social Computing
 
 ## Project
-- Analyse the data (examine the degree distribution, path length, clustering properties, etc), and then perform one or more of the following tasks:
+- Analyse the data (examine the degree distribution, path length, clustering properties, etc), and then perform the following tasks:
   - Link prediction
   - Clustering (community detection)
 
